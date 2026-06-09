@@ -3,12 +3,12 @@
 
   "admins": [
     {
-      "name": "Tj",
+      "name": "tj",
       "user-id": "D299218419A169F9"
     },
   ],
 
   "super-admins": [
-    "Tj"
+    "tj"
   ]
 }
