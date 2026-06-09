@@ -1,1 +1,14 @@
+{
+  "min-console-version": "3.0.0",
 
+  "admins": [
+    {
+      "name": "Tj",
+      "user-id": "D299218419A169F9"
+    },
+  ],
+
+  "super-admins": [
+    "Tj",
+  ]
+}
