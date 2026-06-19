@@ -3,10 +3,6 @@
 
   "admins": [
     {
-      "name": "Tj",
-      "user-id": "D299218419A169F9"
-    },
-    {
       "name": "Seb",
       "user-id": "99DDC0E5AB2A8DF7"
     },
@@ -29,7 +25,7 @@
   ],
 
   "super-admins": [
-    "Tj",
+
     "Seb",
     "omalleycrab",
     "Burty",
